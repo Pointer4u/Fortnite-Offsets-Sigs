@@ -8,3 +8,5 @@ ClientSetCameraMode: 0xA28
 GetPlayerViewPoint: 0x7E8
 SetControlRotation: 0x758
 ProcessEvent: 0x4D
+DrawTransition: 0x6F 
+PostRender : 0x6E 
