@@ -1,6 +1,3 @@
-#define GWORLD = 0xEE5A148
-#define FNAME = 0xEE7C240
-#define RESULT_DA = 0xED83F44
 uintptr_t uworld =  0xf1beee8;
 uintptr_t viewpoint =  0xf0e8bd0;
 uintptr_t Gameinstance = 0x1b8;
